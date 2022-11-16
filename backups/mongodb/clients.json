@@ -1,0 +1,127 @@
+[{
+  "_id": {
+    "$oid": "617365b9c44299294c26673f"
+  },
+  "firstname": "John",
+  "lastname": "Doe",
+  "status": "Available",
+  "createdAt": {
+    "$date": "2021-10-23T01:30:33.534Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-23T01:30:33.534Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c9733560f26245e70bab2"
+  },
+  "firstname": "Jane",
+  "lastname": "Doe",
+  "status": "Available",
+  "createdAt": {
+    "$date": "2021-10-30T00:52:03.135Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-30T00:52:03.135Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c979062df6824ed45bad0"
+  },
+  "firstname": "Anne",
+  "lastname": "Doe",
+  "status": "Available",
+  "type": "Normal",
+  "createdAt": {
+    "$date": "2021-10-30T00:53:36.274Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-30T00:53:36.274Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c97f462df6824ed45bad2"
+  },
+  "firstname": "Julia",
+  "lastname": "Doe",
+  "status": "Available",
+  "type": "Normal",
+  "createdAt": {
+    "$date": "2021-10-30T00:55:16.454Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-30T00:55:16.454Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c982b74df5d2502099c4b"
+  },
+  "firstname": "Hans",
+  "lastname": "Doe",
+  "status": "Available",
+  "type": "VIP",
+  "createdAt": {
+    "$date": "2021-10-30T00:56:11.253Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-30T00:56:11.253Z"
+  },
+  "__v": 0,
+  "totalOutcome": 7000,
+  "genre": "Male"
+},{
+  "_id": {
+    "$oid": "617c986fb2744b250ccf5355"
+  },
+  "firstname": "Elena",
+  "lastname": "Doe",
+  "status": "Available",
+  "type": "VIP",
+  "genre": "Female",
+  "createdAt": {
+    "$date": "2021-10-30T00:57:19.132Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-30T00:57:19.132Z"
+  },
+  "__v": 0,
+  "totalOutcome": 10000
+},{
+  "_id": {
+    "$oid": "617c999452ae8c2528cba7a8"
+  },
+  "firstname": "Juan",
+  "lastname": "Doe",
+  "status": "Available",
+  "type": "VIP",
+  "genre": "Male",
+  "totalOutcome": 12000,
+  "createdAt": {
+    "$date": "2021-10-30T01:02:12.981Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-30T01:02:12.981Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c9a20f36ecf5d60207735"
+  },
+  "firstname": "Sarah",
+  "lastname": "Doe",
+  "status": "Available",
+  "type": "VIP",
+  "genre": "Female",
+  "createdAt": {
+    "$date": "2021-10-30T00:57:19.132Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-30T00:57:19.132Z"
+  },
+  "__v": 0,
+  "totalOutcome": 12000
+}]

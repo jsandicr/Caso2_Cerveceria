@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "6185b53d32b53da5516b7ed3"
+  },
+  "userId": "617365b9c44299294c26673f",
+  "productId": "6173235a64ab772067968fd4",
+  "quantity": 1,
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2021-11-05T22:50:37.102Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-05T22:50:37.102Z"
+  },
+  "__v": 0
+}]

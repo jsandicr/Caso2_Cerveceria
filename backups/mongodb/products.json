@@ -1,0 +1,102 @@
+[{
+  "_id": {
+    "$oid": "6173235a64ab772067968fd4"
+  },
+  "name": "MacBook Pro 2021",
+  "description": "2021, Black, M1 Pro, 32 GB RAM, 512 SSD",
+  "price": 3800,
+  "status": "Available",
+  "createdAt": {
+    "$date": "2021-10-22T20:47:22.144Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-05T22:38:32.043Z"
+  },
+  "__v": 0,
+  "type": "Mac",
+  "numberInStock": 100
+},{
+  "_id": {
+    "$oid": "617325071d6e5d21f4bc66db"
+  },
+  "name": "MacBook Pro 2021",
+  "description": "2021, Black, M1 Pro Max, 32 GB RAM, 512 TB SSD",
+  "price": 4200,
+  "status": "Available",
+  "createdAt": {
+    "$date": "2021-10-22T20:54:31.473Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-22T23:17:09.904Z"
+  },
+  "__v": 0,
+  "type": "Mac",
+  "numberInStock": 100
+},{
+  "_id": {
+    "$oid": "617c2e590116b7fd5339ee1b"
+  },
+  "name": "MacBook Pro 2020",
+  "description": "2020, Black, Intel i9, 16 GB RAM, 512 SSD",
+  "price": 3200,
+  "status": "Available",
+  "createdAt": {
+    "$date": "2021-10-22T20:47:22.144Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-22T20:47:22.144Z"
+  },
+  "__v": 0,
+  "type": "Mac",
+  "numberInStock": 100
+},{
+  "_id": {
+    "$oid": "617c2e690116b7fd5339ee1c"
+  },
+  "name": "MacBook Pro 2020",
+  "description": "2020, Black, Intel i9, 16 GB RAM, 256 SSD",
+  "price": 3000,
+  "status": "Available",
+  "createdAt": {
+    "$date": "2021-10-22T20:47:22.144Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-22T20:47:22.144Z"
+  },
+  "__v": 0,
+  "type": "Mac",
+  "numberInStock": 100
+},{
+  "_id": {
+    "$oid": "617c2fb6585d1a0f0826f575"
+  },
+  "name": "iPad Pro",
+  "description": "2021, White, M1, 32 GB RAM, 512 SSD",
+  "price": 1200,
+  "status": "Available",
+  "createdAt": {
+    "$date": "2021-10-29T17:30:30.663Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-29T17:30:30.663Z"
+  },
+  "__v": 0,
+  "type": "iPad",
+  "numberInStock": 100
+},{
+  "_id": {
+    "$oid": "6185b1ffeeb37ba4ec995f4c"
+  },
+  "name": "iPad Pro",
+  "description": "2020, White, M1, 32 GB RAM, 512 SSD",
+  "price": 1200,
+  "status": "Available",
+  "type": "iPad",
+  "createdAt": {
+    "$date": "2021-11-05T22:36:47.460Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-05T22:36:47.460Z"
+  },
+  "__v": 0
+}]
